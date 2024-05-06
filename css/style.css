@@ -1,0 +1,29 @@
+.navbar {
+  border-bottom: 2px solid black;
+  position: fixed;
+}
+
+.intro-container {
+  font-size: 30px;
+  font-weight: 500;
+  background-color: rgb(216, 181, 181);
+  border-radius: 13px;
+}
+
+.main-image {
+  width: 100%;
+}
+
+.side-para {
+  background-color: rgb(224, 224, 224);
+  color: rgb(79, 79, 79);
+  padding: 30px;
+  margin-top: 0;
+}
+
+.feature-1,
+.feature-2,
+.feature-3 {
+  font-size: 21px;
+  font-weight: bolder;
+}
