@@ -1,0 +1,51 @@
+/* Modification design for the macbooks.html page   */
+
+.header-text {
+  margin-top: 50px;
+  padding-bottom: 7px;
+  border-bottom: 1px solid black;
+}
+#image-air-main {
+  max-width: 50%;
+}
+
+#image-pro-main {
+  max-width: 400px;
+}
+
+.macNameAir,
+.macNamePro {
+  color: rgb(88, 83, 83);
+  cursor: default;
+}
+
+.macNamePro {
+  margin-top: 30px;
+}
+
+.text-air,
+.text-pro {
+  font-size: 13px;
+}
+
+.text-air:hover {
+  color: black;
+  background-color: rgb(190, 176, 176);
+  transition: 0.2s;
+  padding: 5px 30px;
+  border-radius: 10px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.text-pro:hover {
+  color: black;
+  background-color: rgb(190, 176, 176);
+  transition: 0.2s;
+  padding: 5px 15px;
+  border-radius: 10px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+/* Buy BUTTONS */
